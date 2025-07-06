@@ -1,3 +1,6 @@
+SMART IRRIGATION SYSTEM USING CISCO PACKET TRACER
+
+
 #Aim:
 
 To simulate an IIoT-based smart irrigation system in Cisco Packet Tracer that monitors soil moisture levels and automates irrigation by controlling a water pump, thereby conserving water and enhancing crop management efficiency.
@@ -52,5 +55,14 @@ The Smart Irrigation System is built using IoT-enabled components in Cisco Packe
 •	Smartphone or PC – Used to access the IoT monitor interface through a web browser.
 
 •	Cables (optional) – Used for wired connections if applicable in the simulation.
+
+#Screenshot of circuit:
+
+https://github.com/user-attachments/assets/10fefcf5-ee7e-4016-8bb0-cb92ddd3fa4d
+
+
+#Demo link:
+
+https://screenrec.com/share/JW5fEemtFc
 
 
