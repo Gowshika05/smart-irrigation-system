@@ -53,3 +53,4 @@ The Smart Irrigation System is built using IoT-enabled components in Cisco Packe
 
 •	Cables (optional) – Used for wired connections if applicable in the simulation.
 
+
